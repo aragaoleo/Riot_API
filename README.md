@@ -46,7 +46,7 @@ Como mencionei anteriormente, esse é apenas a base para uma boa análise de dad
 - [APIs Used](#apis-used)
 - [Applications](#applications)
 - [Comments](#comments)
-- [English Version](#english-version)
+- [Portuguese Version](#conteúdo)
 - [License](#license)
 
 ## Features
