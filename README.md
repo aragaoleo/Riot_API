@@ -19,7 +19,7 @@ As ferramentas usadas nesse projeto foram:
 ## Aplicações
 É possível usar esses dados coletados para análise individual e coletiva de jogadores. Pórem não se prenda somente nesse [arquivo](main_file/riot_api.ipynb), use a criativade e explore outras funcionalidades das [apis](https://developer.riotgames.com/apis) e experimente também ferramentas de visualização para facilitar a apresentação do seu trabalho.
 ### Projetos mais desenvolvidos
-Meu projeto completo em [apresentação no Power BI]():
+Meu projeto completo em [apresentação no Power BI:](https://app.powerbi.com/view?r=eyJrIjoiNjIzZTIwODEtZTdjMi00ODdiLTg1Y2ItZTE5Yzk3ZmFiNGNiIiwidCI6Ijk1NTAxZGFmLTBlZTctNDJlNy05YTZkLTliYzJkMzY4NmZlZCJ9)
 - Stats principais do jogador
 
 ![Stats](images/player_stats.png)
@@ -61,7 +61,7 @@ The tools I used in this project were:
 ## Applications
 The collected data can be used for individual and collective analysis of players. However, don't limit yourself to this [file](main_file/riot_api.ipynb), use your creativity and explore other functionalities of the [APIs](https://developer.riotgames.com/apis), and also try visualization tools to facilitate the presentation of your work.
 ### More Developed Projects
-My complete project in [Power BI Presentation]():
+My complete project in [Power BI Presentation]:(https://app.powerbi.com/view?r=eyJrIjoiNjIzZTIwODEtZTdjMi00ODdiLTg1Y2ItZTE5Yzk3ZmFiNGNiIiwidCI6Ijk1NTAxZGFmLTBlZTctNDJlNy05YTZkLTliYzJkMzY4NmZlZCJ9)
 - Player's Main Stats
   
 ![Stats](images/player_stats.png)
