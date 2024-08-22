@@ -37,7 +37,7 @@ Meu projeto completo em [apresentação no Power BI:](https://app.powerbi.com/vi
 ![Position](images/player_position.png)
 
 ## Comentários
-Como mencionei anteriormente, esse é apenas a base para uma boa análise de dados em League of Legends. Agraceço por ter lido até aqui, qualquer dúvida pode entrar em contato comigo via Discord @perspectiva.
+Como mencionei anteriormente, essa é apenas a base para uma boa análise de dados em League of Legends. Agraceço por ter lido até aqui, qualquer dúvida pode entrar em contato comigo via Discord @perspectiva.
 
 ## English Version
 # Riot API
@@ -61,7 +61,7 @@ The tools I used in this project were:
 ## Applications
 The collected data can be used for individual and collective analysis of players. However, don't limit yourself to this [file](main_file/riot_api.ipynb), use your creativity and explore other functionalities of the [APIs](https://developer.riotgames.com/apis), and also try visualization tools to facilitate the presentation of your work.
 ### More Developed Projects
-My complete project in [Power BI Presentation]:(https://app.powerbi.com/view?r=eyJrIjoiNjIzZTIwODEtZTdjMi00ODdiLTg1Y2ItZTE5Yzk3ZmFiNGNiIiwidCI6Ijk1NTAxZGFmLTBlZTctNDJlNy05YTZkLTliYzJkMzY4NmZlZCJ9)
+My complete project in [Power BI Presentation:](https://app.powerbi.com/view?r=eyJrIjoiNjIzZTIwODEtZTdjMi00ODdiLTg1Y2ItZTE5Yzk3ZmFiNGNiIiwidCI6Ijk1NTAxZGFmLTBlZTctNDJlNy05YTZkLTliYzJkMzY4NmZlZCJ9)
 - Player's Main Stats
   
 ![Stats](images/player_stats.png)
