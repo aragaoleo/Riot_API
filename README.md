@@ -22,19 +22,19 @@ As ferramentas usadas nesse projeto foram:
 Meu projeto completo em [apresentação no Power BI]():
 - Stats principais do jogador
 
-![Stats]()
+![Stats](player_stats.png)
 
 - Informações de Objetivos
   
-![Objectives]()
+![Objectives](player_objectives.png)
 
 - Histórico de Partidas
   
-![Match History]()
+![Match History](player_history.png)
 
 - Cálculo de proximidade
   
-![Position]()
+![Position](player_position.png)
 
 ## Comentários
 Como mencionei anteriormente, esse é apenas a base para uma boa análise de dados em League of Legends. Agraceço por ter lido até aqui, qualquer dúvida pode entrar em contato comigo via Discord @perspectiva.
@@ -64,19 +64,19 @@ The collected data can be used for individual and collective analysis of players
 My complete project in [Power BI Presentation]():
 - Player's Main Stats
   
-![Stats]()
+![Stats](player_stats.png)
 
 - Objectives Information
   
-![Objectives]()
+![Objectives](player_objectives.png)
 
 - Match History
   
-![Match History]()
+![Match History](player_history.png)
 
 - Proximity Calculation
   
-![Position]()
+![Position](player_position.png)
 
 ## Comments
 As mentioned earlier, this is just a simple function for a good analysis of League of Legends data. Thank you for reading this far, and if you have any questions, feel free to contact me via Discord @perspectiva.
